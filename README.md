@@ -1,7 +1,5 @@
 # Copiosis
 
-# Copiosis
-
 **Contributions are welcome.** Email info@copiosis.com if you have any questions about this site or Copiosis in general. Details about our work are in the wiki.
 
 ## How to contribute?
